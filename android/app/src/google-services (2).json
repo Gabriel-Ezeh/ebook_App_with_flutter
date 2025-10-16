@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357874550676",
+    "project_id": "gabshop-app-598a8",
+    "storage_bucket": "gabshop-app-598a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357874550676:android:a1b874df7cc63f46a07181",
+        "android_client_info": {
+          "package_name": "com.example.ebook_app_with_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJxsthH2DatgYL_uvcXHUVbu833Uj-Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357874550676:android:9d1efeae8f6e7e9aa07181",
+        "android_client_info": {
+          "package_name": "com.example.gabshop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJxsthH2DatgYL_uvcXHUVbu833Uj-Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
